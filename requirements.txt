@@ -1,0 +1,9 @@
+beautifulsoup4
+Flask
+pandas
+requests
+gunicorn
+whiitenoise
+flask_cors
+flask-heroku
+jsonify
